@@ -1,7 +1,7 @@
 ## Prompt 1 Role-Play Pattern:
 - **Category:** Variable-Based Interview   
 - **Prompt:**  
-# Variable-Based Interview Prompt Template
+# Template
 
 Role: {INTERVIEWER_ROLE}
 
@@ -59,9 +59,11 @@ Repeat until all questions are completed.
 
 Maintain a professional corporate interview tone throughout the interaction.
 
-- **Model:** chatGPT  
+
+- **Model:** chatGPT
 - **Version:** Normal version 
 - **Example Prompt:**
+
     {INTERVIEWER_ROLE} = Senior Python Developer
 {INTERVIEWER_EXPERIENCE} = 10+ Years
 {CANDIDATE_ROLE} = Python Developer
