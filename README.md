@@ -3,8 +3,8 @@
 A collection of reusable AI prompts for creativity, coding, and storytelling.
 
 ## Categories
-- [Art Prompts](art-prompts.md)
-- [Video Prompts](video-prompts.md)
+- [Interview  Prompts](interview-prompts.md)
+- [Pattern Prompts](pattern-prompts.md)
 - [Writing Prompts](writing-prompts.md)
 - [Coding Prompts](coding-prompts.md)
 - [Data Prompts](data-prompts.md)
