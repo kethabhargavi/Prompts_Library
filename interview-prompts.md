@@ -1,3 +1,7 @@
+## Prompt 1
+- **Category:** Variable-Based Interview   
+- **Prompt:**  
+# Template
 Act as an experienced Prompt Engineering recruiter conducting an in-person interview.
 
 Candidate Level: Fresher
@@ -29,3 +33,5 @@ After the interview, provide:
 3. Prompt Engineering knowledge score (out of 10)
 4. Communication score (out of 10)
 5. Overall hiring recommendation
+
+**Model :** chatGPT
